@@ -1,3 +1,5 @@
 # GitPractice
 
-# We are going to practice git branching, and resolving merge conflicts.
+# Practicing git branching, and resolving merge conflicts... 
+
+good luck...
